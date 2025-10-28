@@ -1,0 +1,5 @@
+{
+  "name": "Secret Burger",
+  "description": "Securely transmit 'secret recipes' (files) peer-to-peer with end-to-end encryption. No servers, no logs, just delicious secrets.",
+  "requestFramePermissions": []
+}
